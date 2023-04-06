@@ -1,0 +1,285 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+
+  /* section-1 */
+
+
+  .about-banner{
+    background-image: url("https://geeko.netlify.app/img/bg-img/bread.jpg");
+    background-repeat: repeat !important;
+    width: 100% !important;
+    height: 455px !important;
+    margin-top: -92px;
+  }
+  .about-us-margin {
+    margin-top: 70px !important;
+  }
+  .about-us-content {
+    /* margin-top: 135px; */
+    margin-left: 12px !important;
+  }
+  .about-us-dots {
+    margin-top: 70px;
+    margin-bottom: 30px;
+  }
+  .first-clr {
+    border-radius: 50px !important;
+    background-color: #00a8ff !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .scnd-clr {
+    background-color: #9c88ff;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .third-clr {
+    background-color: #fbc531;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .four-clr {
+    background-color: #4cd137;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .five {
+    background-color: #487eb0;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .six-clr {
+    background-color: #e84118;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    margin-right: 5px;
+    display: inline-block;
+  }
+  .seven-clr {
+    background-color: #8c7ae6;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+  }
+  .about-us-h4 {
+    color: #13287e;
+    margin-bottom: 20px;
+    font-size: 33px;
+    font-weight: 700;
+  }
+  .about-us-icon {
+    width: 8%;
+  }
+  .about-us-text {
+    font-weight: 500 !important;
+    font-size: 17px;
+    padding-top: 1px;
+    line-height: 2;
+  }
+  .flex {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  .about-us-banner {
+    padding-top: 20px !important;
+  }
+
+  /* section-2 */
+  .home-bg {
+    margin-top: 60px;
+    background-position: left;
+    background-size: auto;
+    height: 620px;
+    background-repeat: no-repeat;
+    background-image: url("https://geeko.netlify.app/img/svg/benefits-bg.svg") !important;
+  }
+  .services-1 {
+    margin-top: 80px;
+    margin-bottom: 25px;
+    padding: 25px 20px 15px;
+    background: #fff;
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 15px -10px rgba(15, 14, 14, 0.5);
+  }
+  .services-2 {
+    margin-bottom: 25px;
+    padding: 25px 20px 15px;
+    background: #fff;
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 15px -10px rgba(15, 14, 14, 0.5);
+  }
+  .inner-box {
+    display: flex;
+    justify-content: space-around;
+  }
+  .inner-box-icon {
+    width: 20%;
+  }
+  .inner-box-h3 {
+    color: #13287e;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+  }
+  .inner-box-p {
+    font-size: 16px;
+    color: #888;
+    margin-top: 8px;
+    margin-bottom: 10px;
+  }
+  .home-content {
+    margin-left: 10px;
+  }
+  .home-content-dots {
+    margin-top: 75px !important;
+    margin-bottom: 30px !important;
+  }
+  .first-clr {
+    border-radius: 50px !important;
+    background-color: #00a8ff !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .scnd-clr {
+    background-color: #9c88ff;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .third-clr {
+    background-color: #fbc531;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .four-clr {
+    background-color: #4cd137;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .five {
+    background-color: #487eb0;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+    margin-right: 5px;
+  }
+  .six-clr {
+    background-color: #e84118;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    margin-right: 5px;
+    display: inline-block;
+  }
+  .seven-clr {
+    background-color: #8c7ae6;
+    border-radius: 50px !important;
+    height: 8px;
+    width: 8px;
+    display: inline-block;
+  }
+  .home-content-h4{
+      color: #13287e;
+      margin-bottom: 20px;
+      font-size: 33px;
+      font-weight: 700;
+  }
+  .home-content-p1{
+      color: #888;
+      line-height: 1.9;
+      font-size: 17px;
+      margin-bottom: 1rem;
+  }
+  .home-content-p2{
+      color: #888;
+      line-height: 1.9;
+      font-size: 17px;
+      margin-bottom: 3rem;
+  }
+  
+
+  /* section-3 */
+
+  .about-us-request {
+    margin: 20px 25px;
+    margin-top: 100px;
+    padding: 18px 20px;
+    background: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+  }
+  .about-img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    margin-left: -20px;
+    margin-top: -20px;
+  }
+  .about-box-h2{
+      color: #13287e;
+      margin-bottom: 20px;
+      font-size: 30px;
+      font-weight: 700;
+      line-height: 1.5;
+  }
+  .about-box-btn{
+      justify-content: center;
+      display: flex;
+      margin-top: 27px;
+  }
+  .about-box-button{
+      padding: 14px 50px !important;
+      line-height: 1.25 !important;
+      color: #1d88ed !important;
+      background: #fff !important;
+      font-weight: 600 !important;
+      font-size: 18px !important;
+      border: 2px solid #1d88ed !important;
+  }
+  .about-box-button:hover{
+      background-color: #25CBD3 !important;
+      color: white !important;
+      border: 2px solid #1d88ed !important;
+  }
+  
+  /* media query start */
+  @media (max-width:992px) {
+    .about-img{
+      display: none;
+    }
+    .about-us-content{
+      margin-top: 25rem;
+    }
+  }

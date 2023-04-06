@@ -1,0 +1,130 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bg-sticky {
+  background-color: #ccd7e8;
+  width: 100%;
+  height: 90px;
+  transition: background-color 0.5s;
+}
+
+.navbar {
+  font-size: 27px !important;
+  padding-left: 5px !important;
+  font-weight: 600 !important;
+}
+
+.navlink {
+  color: black !important;
+  font-weight: 500 !important;
+  margin: 0 17px !important;
+  font-size: 16px !important;
+  text-transform: uppercase;
+}
+
+.register-btn .login {
+  color: #fff !important;
+  background: rgb(62, 148, 228);
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #fff !important;
+  letter-spacing: 1px;
+  line-height: 33px;
+  padding: 9px 23px;
+  min-width: 100px;
+  font-size: 12px !important;
+  text-transform: uppercase;
+  margin-right: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  box-shadow: none !important;
+}
+.navbar-light {
+  box-shadow: none !important;
+}
+
+/* modal-login-start */
+.MuiFormLabel-root {
+  font-style: italic;
+}
+.modal-dialog {
+  margin-top: 90px !important;
+}
+.modal-content {
+  border-radius: 1px !important;
+}
+h3 {
+  color: #13287e;
+  padding-top: 3px;
+  line-height: 1.4;
+  font-weight: 500 !important;
+  font-size: 1.5rem;
+}
+.modal-login {
+  margin-left: 13px;
+  color: #fff !important;
+  background: rgb(62, 148, 228);
+  border-radius: 7px;
+  border: 1px solid #fff !important;
+  letter-spacing: 1px;
+  font-weight: 600;
+  line-height: 90px;
+  padding: 18px 60px;
+  font-size: 12px !important;
+  text-transform: uppercase;
+  margin-right: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+.dont {
+  line-height: 90px;
+  float: right;
+  margin-right: 10px;
+  color: #888;
+}
+.dont span {
+  color: #1d88ed;
+}
+.other-margin {
+  margin-bottom: 20px;
+}
+.other-accounts {
+  background: linear-gradient(to right, #21d397 0%, #7450fe 100%) !important;
+  text-align: center !important;
+  padding: 20px;
+  margin: 0 10px;
+}
+.other-p {
+  color: white;
+  font-size: 15px;
+  line-height: 1.9;
+}
+.social-links {
+  color: white;
+}
+.social-links span {
+  margin-right: 5px;
+}
+
+/* modal-signup-start */
+
+.have {
+  line-height: 90px;
+  float: right;
+  margin-right: 10px;
+  color: #888;
+}
+.have .color {
+  color: #1d88ed;
+}
+
+@media (max-width: 1200px) {
+  .navlink {
+    margin: 0 10px !important;
+  }
+}

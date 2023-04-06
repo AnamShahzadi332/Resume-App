@@ -1,0 +1,160 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.contact-banner {
+  background-image: url("https://geeko.netlify.app/img/bg-img/bread.jpg");
+  background-repeat: repeat !important;
+  width: 100% !important;
+  height: 455px !important;
+  margin-top: -92px;
+}
+.contact-row-one {
+  margin-top: 90px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.contact-dots {
+  padding-bottom: 20px;
+}
+.first-clr {
+  border-radius: 50px !important;
+  background-color: #00a8ff !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.scnd-clr {
+  background-color: #9c88ff;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.third-clr {
+  background-color: #fbc531;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.four-clr {
+  background-color: #4cd137;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.five {
+  background-color: #487eb0;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.six-clr {
+  background-color: #e84118;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  margin-right: 5px;
+  display: inline-block;
+}
+.seven-clr {
+  background-color: #8c7ae6;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+}
+.creative {
+  color: #13287e;
+  font-weight: 600 !important;
+  padding-bottom: 8px;
+}
+.contact-row-one p {
+  color: #888;
+  line-height: 2;
+  font-size: 18px !important;
+  max-width: 600px !important;
+  margin: 0 auto !important;
+}
+.banner {
+  padding: 250px 0;
+}
+.list-style-one {
+  color: white !important;
+  cursor: pointer;   
+   font-size: 13px !important;
+  text-transform: uppercase;
+  text-decoration: none !important;
+}
+.list-style-two {
+  color: white !important;
+   font-size: 13px !important;
+  text-transform: uppercase;
+
+}
+.center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  list-style: none;
+}
+.bread-crums {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 42px;
+  margin-bottom: 15px;
+  color: white;
+}
+.contact-margin{
+  margin-bottom: 20px;
+}
+.send-btn{
+  display: flex;
+  justify-content: center;
+}
+.send-btn .send-msg {
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff !important;
+  background: rgb(62, 148, 228);
+  border-radius: 7px;
+  border: 2px solid #007bff !important;
+  letter-spacing: 1px;
+  line-height: 33px;
+  padding: 4px 25px;
+  min-width: 160px;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* .contact-margin {
+  padding-top: 5rem;
+}
+.d-center {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.multi-imgs {
+  margin: 8px 0;
+  width: 100%;
+  border: 1px solid #c4c4c4;
+  padding: 10px 12px;
+  margin-left: 10px;
+  border-radius: 5px;
+} */

@@ -1,0 +1,183 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.price-list-margin {
+  margin-top: 70px !important;
+}
+.price-list-box1 {
+  margin-left: 12px !important;
+}
+.price-list-dots {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+.first-clr {
+  border-radius: 50px !important;
+  background-color: #00a8ff !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.scnd-clr {
+  background-color: #9c88ff;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.third-clr {
+  background-color: #fbc531;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.four-clr {
+  background-color: #4cd137;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.five {
+  background-color: #487eb0;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+  margin-right: 5px;
+}
+.six-clr {
+  background-color: #e84118;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  margin-right: 5px;
+  display: inline-block;
+}
+.seven-clr {
+  background-color: #8c7ae6;
+  border-radius: 50px !important;
+  height: 8px;
+  width: 8px;
+  display: inline-block;
+}
+.price-list-h4 {
+  color: #13287e;
+  margin-bottom: 20px;
+  font-size: 33px;
+  font-weight: 700;
+}
+.price-list-p {
+  color: #888;
+  line-height: 1.9;
+  font-size: 17px;
+}
+.price-list-box {
+  border: 1px solid #1d88ed;
+  text-align: center;
+  padding: 15px 0px;
+}
+.price-list-box span {
+  color: #1d88ed;
+  font-weight: 600;
+}
+.price-list-box p {
+  color: #1d88ed !important;
+  margin-bottom: 0;
+}
+.price-list-btn {
+  padding-top: 20px;
+}
+.price-list-btn span {
+  color: #1d88ed !important;
+  font-weight: 400 !important;
+  font-size: 18px !important;
+}
+.price-list-btn p {
+  color: #888;
+  font-size: 17px;
+}
+/* //card */
+.price-list-card {
+  padding-bottom: 40px !important;
+  margin-top: 70px !important;
+  border-radius: 6px;
+  background: #fff;
+  /* box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11); */
+  box-shadow: 0 5px 40px 0 rgb(0 0 0 / 11%);
+}
+.price-list-text {
+  background-image: url("https://geeko.netlify.app/img/core-img/price.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 75%;
+  margin-bottom: 20px;
+  padding: 47px 30px;
+  text-align: right;
+}
+.price-list-text h1 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff !important;
+  margin-bottom: 10px;
+  line-height: 1;
+}
+.price-list-text h5 {
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: cyan;
+}
+.price-list-detail {
+  padding: 0 30px;
+}
+.price-list-detail span {
+  font-size: 14px;
+  border-radius: 30px;
+  color: #1d88ed;
+  background: #e8f3fd;
+  padding: 5px 15px;
+  margin-bottom: 26px;
+margin-left: 10px;
+margin-top: 4px;
+}
+.price-list-span {
+  display: flex;
+}
+.price-list-detail h3 {
+  color: #13287e;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+.price-list-detail p {
+  color: #888;
+  margin-bottom: 20px;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.9;
+}
+.price-list-btnn {
+  margin-left: 17px;
+}
+.price-list-button {
+  padding: 10px 30px !important;
+  line-height: 1.25 !important;
+  color: #1d88ed !important;
+  background: #fff !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  border: 2px solid #1d88ed !important;
+}
+.price-list-button:hover {
+  background-color: #25cbd3 !important;
+  color: white !important;
+  border: 2px solid #1d88ed !important;
+}
